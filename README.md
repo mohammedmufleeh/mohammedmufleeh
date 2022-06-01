@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mohammedmufleeh
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python
+- 📫 How to reach me mmt7025@gmail.com
